@@ -11,7 +11,8 @@ application to provide high-quality interactions between the user and the applic
 - The application will be used by two different types of users:
    - Manager The manager of the company should be able to log into the application and view statistics about the orders that have been placed. He is mainly interested in how many orders were placed and the total cost for all the orders.
    - Customer – The customer should be able to select any amount of 5 products and add them to the cart for checkout. The checkout process should review the order and present a total for the order.
-### Technical Specification
+---
+## Technical Specification
 - Tables exists in the database for user accounts, orders, and products.
 - Sending data from one page to other pages is performed using AJAX.
 - An API interacts with your MySQL database.
