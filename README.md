@@ -13,7 +13,7 @@ application to provide high-quality interactions between the user and the applic
    - Customer – The customer should be able to select any amount of 5 products and add them to the cart for checkout. The checkout process should review the order and present a total for the order.
 ---
 ## Technical Specification
-- Tables exists in the database for user accounts, orders, and products.
+- Tables exist in the database for user accounts, orders, and products.
 - Sending data from one page to other pages is performed using AJAX.
 - An API interacts with your MySQL database.
 - The layout makes the application visually appealing.
