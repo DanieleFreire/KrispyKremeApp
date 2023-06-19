@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-##General Info 
--This project was part of the assessment for a Higher Degree in Computer Science by the Technological University Dublin. 
--This project was graded as A+.
--It was also inspired by KrispyKreme ecommerce application.
+---
+## General Info 
+- This project was part of the assessment for a Higher Degree in Computer Science by the Technological University Dublin. 
+- This project was graded as A+.
+- It was also inspired by KrispyKreme ecommerce application.
 
 ## Getting Started
 
